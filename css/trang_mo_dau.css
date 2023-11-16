@@ -1,0 +1,101 @@
+.detai{
+    font-size: 40px;
+    position: relative;
+    top: -170px;
+    left: 320px;
+    width: auto;
+}
+.gvhd{
+    width: auto;
+    font-size: 20px;
+    position: relative;
+    top: 140px;
+    padding-left: 322px;
+}
+.svth{
+    width: auto;
+    font-size: 20px;
+    position: relative;
+    top: 145px;
+    padding-left: 322px;
+    width: auto;
+}
+.name{
+    font-size: 20px;
+    position: relative;
+    top: 155px;
+    padding-left: 377px;
+    width: auto;
+}
+.nganh{
+    font-size: 20px;
+    position: relative;
+    top: 150px;
+    padding-left: 322px;
+    width: auto;
+}
+.device{
+    max-width: 100px;
+    height: 10px;
+    position: relative;
+    top: -70px;
+    left: 800px;
+    padding: 5px 8px 5px 8px;
+}
+.footer {
+    padding: 0.4rem;
+    width: 1535.5px;
+    height: 139.5px;
+    display: block;
+    background-color: #66CCFF;
+    margin: auto;
+    position: relative;
+    top: 75px;
+}
+.vienduoi{
+    width: 100%; 
+    border-bottom: 4px solid black;
+    position: relative;
+    top: 75px;
+}
+.login{
+    position: relative;
+    left: 1465px;
+}
+
+
+html, body {
+  height: 100px;
+}
+
+.wrap {
+  height: 100px;
+  display: flex;
+ 
+}
+.button {
+  width: 140px;
+  height: 45px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  font-weight: 500;
+  color: #1d00c2;
+  background-color: #fff;
+  border: none;
+  border-radius: 45px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  outline: none;
+  position: relative;
+  top: -250px;
+  left: 30px;
+  }
+.button:hover {
+  background-color: #01110a;
+  box-shadow: 0px 15px 20px rgba(20, 100, 179, 0.601);
+  color: #ffffff;
+  transform: translateY(-7px);
+}

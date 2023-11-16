@@ -1,0 +1,23 @@
+.table2{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+{
+    width: 400px;
+    position: relative;
+    left: 550px; 
+    top: 50px;        
+}
+#table, td, th{
+    border: 1px solid#050404;
+    border-collapse: collapse;
+    
+}
+#td, th{
+    padding: 4px 4px;
+    text-align: center;            
+}
+.table th {
+    background-color: #673791;
+    color: white;
+}
